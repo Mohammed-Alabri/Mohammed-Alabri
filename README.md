@@ -28,7 +28,7 @@ I’m a cybersecurity student at Sultan Qaboos University with a passion for sec
 
 ---
 
-## 🔬 Featured Projects
+## 🔬 Projects
 
 ### 🗓️ SQU Timetable Maker
 A Flet‑based desktop app that helps SQU students generate the most suitable timetable with filters for days and times.
@@ -52,7 +52,7 @@ A cross‑platform app (Python + Flet) that provides handy SQU Portal/SIS servic
 ## 🧰 Tech Stack
 - **Languages:** Python, C, C++
 - **Security:** nmap, Burp Suite, Linux tooling, manual HTTP analysis
-- **RE/Exploit:** Ghidra, x64dbg/WinDbg, pwntools (basics), assembly (basics)
+- **RE/Exploit:** Ghidra, pwntools (basics), assembly (basics)
 - **Build/Packaging:** PyInstaller, GitHub Actions (basics)
 
 ---
