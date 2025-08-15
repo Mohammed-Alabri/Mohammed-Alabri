@@ -49,14 +49,6 @@ A cross‑platform app (Python + Flet) that provides handy SQU Portal/SIS servic
 
 ---
 
-## 🧰 Tech Stack
-- **Languages:** Python, C, C++
-- **Security:** nmap, Burp Suite, Linux tooling, manual HTTP analysis
-- **RE/Exploit:** Ghidra, pwntools (basics), assembly (basics)
-- **Build/Packaging:** PyInstaller, GitHub Actions (basics)
-
----
-
 ## 📜 Certifications
 - eLearnSecurity Junior Penetration Tester (eJPT)
 - eLearnSecurity Certified Professional Penetration Tester (eCPPT)
