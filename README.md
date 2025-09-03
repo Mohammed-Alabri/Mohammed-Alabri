@@ -1,6 +1,6 @@
 # Mohammed Al Abri
 
-Cybersecurity Student · eJPT · eCPPT · Python & C/C++ · CTF’er
+Cybersecurity Student · eJPT · eCPPT · PT1 · Python & C/C++
 
 ---
 
