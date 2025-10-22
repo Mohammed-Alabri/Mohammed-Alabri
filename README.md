@@ -1,16 +1,16 @@
 # Mohammed Al Abri
 
-Cybersecurity Student · eJPT · eCPPT · PT1 · Python & C/C++
+CS Student · eJPT · eCPPT · PT1 · Python & C/C++
 
 ---
 
 ## 👋 About Me
-I’m a cybersecurity student at Sultan Qaboos University with a passion for security, penetration testing, and developing useful tools. I participate in CTFs, enjoy building projects that solve real problems, and keep improving my skills in security and development.
+I’m a CS student at Sultan Qaboos University with a passion for security, penetration testing, and developing useful tools. I participate in CTFs, enjoy building projects that solve real problems, and keep improving my skills in security and development.
 
 - 🎯 Focus: Penetration testing, web security, reverse engineering, software development
 - 🐍 Languages: Python, C/C++
 - 🏫 Education: B.Sc. Computer Science (Cybersecurity), SQU (2021–2026)
-- 🛡️ Certs: eJPT, eCPPT
+- 🛡️ Certs: eJPT, eCPPT, PT1, CRTA
 
 ---
 
